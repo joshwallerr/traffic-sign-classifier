@@ -1,5 +1,4 @@
 scikit-learn
 tensorflow
-os
 numpy
 pillow
